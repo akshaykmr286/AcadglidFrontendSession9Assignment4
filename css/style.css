@@ -1,0 +1,27 @@
+/*
+adding top margin to nav
+*/
+nav{
+    margin-top:3%;
+}
+
+/*
+resizing the Brand Image
+*/
+img[src="images/brand.png"]{
+    height: 99%;
+}
+
+/*
+Aligning content from left
+*/
+#content{
+    margin-left: 5%;
+}
+/*
+styling the 3 lines menu bar
+*/
+.navbar-default .navbar-toggle.collapsed:hover{
+    border-color: blue;
+    background-color: blanchedalmond;
+}
